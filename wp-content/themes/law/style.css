@@ -1,9 +1,9 @@
 /*!
 Theme Name: Law
 Theme URI: http://underscores.me/
-Author: Ketzenkrad
-Author URI: https://twitter.com/ketzenkrad
-Description: Law Couching theme
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Description
 Version: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
@@ -842,8 +842,7 @@ a:hover, a:active {
 	display: block;
 }
 
-.post,
-.page {
+.hentry {
 	margin: 0 0 1.5em;
 }
 
