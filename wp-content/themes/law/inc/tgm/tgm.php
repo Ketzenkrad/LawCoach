@@ -10,9 +10,6 @@
  *
  * @package    TGM-Plugin-Activation
  * @subpackage Example
- * @subpackage Example
- * @subpackage Example
- * @subpackage Example
  * @version    2.6.1 for parent theme Law
  * @author     Thomas Griffin, Gary Jones, Juliette Reinders Folmer
  * @copyright  Copyright (c) 2011, Thomas Griffin
@@ -61,8 +58,6 @@ function law_register_required_plugins() {
 	 * If the source is NOT from the .org repo, then source is also required.
 	 */
 	$plugins = array(
-		//Настройка TGM	
-		// This is an example of how to include a plugin from the WordPress Plugin Repository.
 		array(
 			'name'      => 'Unyson',
 			'slug'      => 'unyson',
