@@ -13,7 +13,7 @@ A starter theme called Law.
 
 == Description ==
 
-Law Couching theme
+Description
 
 == Installation ==
 
